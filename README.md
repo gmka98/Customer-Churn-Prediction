@@ -73,3 +73,42 @@ The dataset includes:
 ```bash
 git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
+
+### 2. Install dependencies
+
+`bash´
+pip install -r requirements.txt
+
+### 3. Run the notebook
+
+Open and run Customer_Churn_Prediction.ipynb using Jupyter Notebook or VS Code.
+
+## 📌 Key Insights from the Data
+Customers with month-to-month contracts are more likely to churn.
+
+Those with fiber optic internet and high monthly charges also tend to leave more.
+
+Tenure (how long they’ve been a customer) is a strong predictor of loyalty.
+
+
+## 🧠 Future Improvements
+Hyperparameter tuning (GridSearchCV)
+
+Model deployment with Streamlit or Flask
+
+Include real-time scoring via API
+
+
+### 📬 Contact
+If you have any questions or feedback, feel free to contact:
+📧 your.email@example.com
+🔗 Your LinkedIn
+
+## ✅ License
+MIT License - You are free to use, share, and modify this project with attribution.
+
+yaml
+Copier
+Modifier
+
+
